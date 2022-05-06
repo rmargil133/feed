@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EL PAÍS]]></title>
+        <description><![CDATA[RSS del periódico EL PAIS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 06 May 2022 16:41:05 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[Nuevo ataque ruso]]></title>
+            <description><![CDATA[Un ataque ruso dificulta el intento de rescatar a civiles de la acería de Mariupol]]></description>
+            <guid isPermaLink="false">Nuevo ataque ruso</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los misiles Javelin: el icono de la ayuda militar occidental en Ucrania]]></title>
+            <description><![CDATA[El modelo de antitanque portátil, fabricado en Estados Unidos, desempeña un papel decisivo en la resistencia de Kiev frente a Moscú]]></description>
+            <guid isPermaLink="false">Los misiles Javelin: el icono de la ayuda militar occidental en Ucrania</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rusia intensifica los ataques contra la acería Azovstal]]></title>
+            <description><![CDATA[Rusia intensifica los ataques contra la acería Azovstal, el último bastión de resistencia ucrania en Mariupol]]></description>
+            <guid isPermaLink="false">Rusia intensifica los ataques contra la acería Azovstal</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Ejército de los generales muertos]]></title>
+            <description><![CDATA[La incompetencia militar rusa no explica tan solo las barbaridades de sus soldados en su trato con la población civil, sino también el persistente recurso a la acción de los bombardeos]]></description>
+            <guid isPermaLink="false">El Ejército de los generales muertos</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El arsenal de la democracia]]></title>
+            <description><![CDATA[Como Roosevelt en 1941 para vencer a Hitler, Biden ha lanzado un enorme paquete de ayudas a Ucrania para vencer a Putin]]></description>
+            <guid isPermaLink="false">El arsenal de la democracia</guid>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
